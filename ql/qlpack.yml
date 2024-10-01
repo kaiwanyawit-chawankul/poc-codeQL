@@ -1,0 +1,6 @@
+name: my-custom-queries
+version: 1.0.0
+description: A pack of custom CodeQL queries for analyzing C# code complexity.
+queries:
+  - complexity-check.ql  # Name of your query file
+  - params-check.ql  # Name of your query file

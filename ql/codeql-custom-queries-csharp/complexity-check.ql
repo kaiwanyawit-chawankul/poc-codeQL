@@ -1,3 +1,10 @@
+/**
+ * This is an automatically generated file
+ * @name Cyclomatic Complexity
+ * @kind problem
+ * @problem.severity error
+ * @id csharp/cyclomatic-complexity
+ */
 import csharp
 
 from Method m
